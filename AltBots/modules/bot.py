@@ -24,7 +24,7 @@ async def ping(e):
         altron = await e.reply(f"» __𝗔𝗕𝗘 𝗠𝗘𝗥𝗔 𝗟𝗢𝗗𝗔 𝗠𝗧 𝗖𝗛𝗨𝗦__")
         end = datetime.now()
         mp = (end - start).microseconds / 1000
-        await altron.edit(f"__🤖 ᴘɪɴɢ__\n» `{mp} ᴍꜱ`")
+        await altron.edit(f"__🤖 LANND KA PING__\n» `{mp} ᴍꜱ`")
 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
@@ -99,7 +99,7 @@ async def addsudo(event):
         Heroku = heroku3.from_key(HEROKU_API_KEY)
         sudousers = getenv("SUDO_USERS", default=None)
 
-        ok = await event.reply(f"» __ᴀᴅᴅɪɴɢ ᴜꜱᴇʀ ᴀꜱ ꜱᴜᴅᴏ...__")
+        ok = await event.reply(f"» __ᴀᴅᴅɪɴɢ baccha ᴀꜱ ꜱᴜᴅᴏ...__")
         target = ""
         if HEROKU_APP_NAME is not None:
             app = Heroku.app(HEROKU_APP_NAME)
