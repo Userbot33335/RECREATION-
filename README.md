@@ -5,7 +5,7 @@
 <p align="center"><a href="https://t.me/BHAGAD_BILLA"><img src="https://graph.org/file/c5e80e526321c9036fc6f.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op XBOTS. That is the greatest pleasure we have !
+> ⭐️ 𝗧𝗘𝗥𝗔 𝗣𝗛𝗔𝗟𝗘𝗔 𝗕𝗔𝗣𝗣 𝗛𝗨 𝗠𝗔𝗗𝗔𝗥𝗖𝗛𝗢𝗗 𝗠𝗔𝗜 !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
