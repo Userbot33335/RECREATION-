@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/BHAGAD_BILLA"><img src="https://graph.org/file/c5e80e526321c9036fc6f.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/ZODEX66"><img src="https://graph.org/file/c5e80e526321c9036fc6f.jpg" width="400"></a></p>
 
 
 > ⭐️ 𝗧𝗘𝗥𝗔 𝗣𝗛𝗔𝗟𝗘𝗔 𝗕𝗔𝗣𝗣 𝗛𝗨 𝗠𝗔𝗗𝗔𝗥𝗖𝗛𝗢𝗗 𝗠𝗔𝗜 !
