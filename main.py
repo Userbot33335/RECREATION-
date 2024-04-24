@@ -22,17 +22,17 @@ def load_plugins(plugin_name):
     load.logger = logging.getLogger(plugin_name)
     spec.loader.exec_module(load)
     sys.modules["AltBots.modules." + plugin_name] = load
-    print("Altron has Imported " + plugin_name)
+    print("RECREATION has Imported " + plugin_name)
 
 
-files = glob.glob("AltBots/modules/*.py")
+files = glob.glob("Bots/modules/*.py")
 for name in files:
     with open(name) as a:
         patt = Path(a.name)
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("\Bila bot 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 ⚡\nMy Master ---> @ZODEX66")
+print("\Recreation bot 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 ⚡\nMy Master ---> @ZODEX66")
 
 
 async def main():
