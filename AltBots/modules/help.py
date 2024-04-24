@@ -60,7 +60,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**© @BHAGAD_BILLA**
+**© @ZODEX66**
 """
 
                  
@@ -92,7 +92,7 @@ raid_msg = f"""
   2) {hl}craid <count> <reply to user>
 
 
-**© @BHAGAD_BILLA**
+**© @ZODEX66**
 """
 
 spam_msg = f"""
@@ -109,7 +109,7 @@ spam_msg = f"""
   1) {hl}hang <counter>
 
 
-** © @BHAGAD_BILLA**
+** © @ZODEX66**
 """                     
            
            
@@ -199,4 +199,4 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
     else:
-        await event.answer("𝗖𝗛𝗔𝗗𝗗𝗜 𝗠𝗔𝗜 𝗛𝗔𝗧𝗛 𝗗𝗔𝗟 𝗠𝗘𝗥𝗘 !! @BHAGAD_BILLA", cache_time=0, alert=True)
+        await event.answer("𝗖𝗛𝗔𝗗𝗗𝗜 𝗠𝗔𝗜 𝗛𝗔𝗧𝗛 𝗗𝗔𝗟 𝗠𝗘𝗥𝗘 !! @ZODEX66", cache_time=0, alert=True)
