@@ -8,8 +8,8 @@ START_BUTTON = [
         Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
     ],
     [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/BOT_DEVELOPING"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/BOT_DEVELOPING")
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/CHATTING_HUB8"),
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/CHATTING_HUB8")
     ],
     [
         Button.url("• ʀᴇᴘᴏ •", "https://github.com/Userbot33335/RECREATION-/tree/main")
@@ -34,7 +34,7 @@ async def start(event):
         bot_name = AltBot.first_name
         bot_id = AltBot.id
         TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝗔𝗻𝘂𝗿𝗮𝗴 & 𝗕𝗶𝗹𝗹𝗮](https://t.me/BHAGAD_BILLA)**\n\n"
+        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝗔𝗻𝘂𝗿𝗮𝗴](https://t.me/ZODEX66)**\n\n"
         TEXT += f"» **xʙᴏᴛꜱ ᴠᴇʀsɪᴏɴ :** `M3.3`\n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `3.11.3`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
